@@ -1,0 +1,11 @@
+/* STYLESHEET FOR PHP/JS COUNTDOWN TIMER */
+*{padding:0;margin:0;}
+#wrapper{
+	width:900px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#countdown{
+	font-size:9em;
+}
