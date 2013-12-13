@@ -3,8 +3,7 @@ This countdown timer will countdown to multiple times of day, everyday.
 <h2>How to use</h2>
 Simply drop the countdownTimer.php file into the website directory and include it in the page.<br />
 "require_once('countdownTimer.php');"<br />
-Next include a span with the id of timer where ever you want it to display on the webpage.<br />
-"<span id=\"timer\"></span>"
+Next include a span with the id of "timer" where ever you want it to display on the webpage.<br />
 <h2>Requirements</h2>
 PHP
 <h2>Demo</h2>
