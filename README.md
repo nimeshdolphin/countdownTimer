@@ -11,6 +11,6 @@ Next include a span with the id of "timer" where ever you want it to display on 
 <li>Javascript</li>
 </ul>
 <h2>Demo</h2>
-<a href="http://www.chrismepham.co.uk/github/countdowntimer/example.php">http://www.chrismepham.co.uk/github/countdowntimer/example.php</a>
+<a href="http://crmepham.no-ip.biz/github/countdowntimer/example.php">countdowntimer</a>
 <h2>Improvements</h2>
 Replace PHP with equivalent Javascript GMT date to seconds formatting.
